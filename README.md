@@ -1,2 +1,3 @@
 # hello-world.
 My first repository ... learning to code. PSYCHED! 
+Devouring everything about HTML, CSS, and JAVASCRIPT ...
